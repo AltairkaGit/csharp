@@ -1,0 +1,13 @@
+C:\CSharp\HomeTasks\HomeTasks\HomeTasks\bin\Debug\netcoreapp3.1\HomeTasks.exe
+C:\CSharp\HomeTasks\HomeTasks\HomeTasks\bin\Debug\netcoreapp3.1\HomeTasks.deps.json
+C:\CSharp\HomeTasks\HomeTasks\HomeTasks\bin\Debug\netcoreapp3.1\HomeTasks.runtimeconfig.json
+C:\CSharp\HomeTasks\HomeTasks\HomeTasks\bin\Debug\netcoreapp3.1\HomeTasks.runtimeconfig.dev.json
+C:\CSharp\HomeTasks\HomeTasks\HomeTasks\bin\Debug\netcoreapp3.1\HomeTasks.dll
+C:\CSharp\HomeTasks\HomeTasks\HomeTasks\bin\Debug\netcoreapp3.1\HomeTasks.pdb
+C:\CSharp\HomeTasks\HomeTasks\HomeTasks\obj\Debug\netcoreapp3.1\HomeTasks.csprojAssemblyReference.cache
+C:\CSharp\HomeTasks\HomeTasks\HomeTasks\obj\Debug\netcoreapp3.1\HomeTasks.AssemblyInfoInputs.cache
+C:\CSharp\HomeTasks\HomeTasks\HomeTasks\obj\Debug\netcoreapp3.1\HomeTasks.AssemblyInfo.cs
+C:\CSharp\HomeTasks\HomeTasks\HomeTasks\obj\Debug\netcoreapp3.1\HomeTasks.csproj.CoreCompileInputs.cache
+C:\CSharp\HomeTasks\HomeTasks\HomeTasks\obj\Debug\netcoreapp3.1\HomeTasks.dll
+C:\CSharp\HomeTasks\HomeTasks\HomeTasks\obj\Debug\netcoreapp3.1\HomeTasks.pdb
+C:\CSharp\HomeTasks\HomeTasks\HomeTasks\obj\Debug\netcoreapp3.1\HomeTasks.genruntimeconfig.cache
